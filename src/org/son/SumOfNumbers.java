@@ -20,6 +20,7 @@ public class SumOfNumbers {
 		}
 		
 		System.out.println("Sum of numbers = "+sum);
+		System.out.println("Update new codes to Sum Of Numbers");
 		
 	}
 	
